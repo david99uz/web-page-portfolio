@@ -1,0 +1,6 @@
+.ProfileImage {
+  object-fit: cover;
+  max-width: 100%;
+  height: 300px;
+  width: 300px;
+}
